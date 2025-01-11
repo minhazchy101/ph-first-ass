@@ -308,3 +308,19 @@ font: 600px;
     border: none;
 }
 
+/* footer style */
+#footer{
+height: 226px;
+padding: 50px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+.footer-img{
+    margin: 50px 24px 64px;
+}
+
+
