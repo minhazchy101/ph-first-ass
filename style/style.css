@@ -204,3 +204,28 @@ td, th{
 .tb-btn{
     padding: 12px 16px;
 }
+
+/* jazeera style */
+
+.jazeera{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    background-color: white;
+    border-radius: 24px;
+    padding: 48px;
+    margin: 24px 0;
+}
+.jazeera-img{
+    border-radius: 24px;
+}
+.jazeera-btn{
+    padding: 13px 26px;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #006A50;
+    border: none;
+    margin-top: 24px;
+}
+
