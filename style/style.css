@@ -23,6 +23,13 @@
     color: #635c5c;
 }
 
+button:hover{
+    background-color: navy;
+    color:white;
+    font-weight: bolder;
+}
+
+/* nav style */
 
 .nav{
     background-color: #eaedf4ce;
@@ -227,5 +234,35 @@ td, th{
     background-color: #006A50;
     border: none;
     margin-top: 24px;
+}
+
+.donate{
+text-align: center;
+padding: 0 104px;
+}
+
+.taka{
+     display: flex;
+    justify-content: space-between; 
+    gap: 24px;
+}
+
+.btn-taka{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 30px;
+    border-radius: 16px;
+    border: none;
+    background-color: #9be7c7e5;
+}
+
+.input{
+    width: 90%;
+    margin-top: 32px;
+    padding: 20px 40px;
+    background-color: #ffffff;
+    color: #635c5c;
+    border: none;
+    text-align: center;
 }
 
